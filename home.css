@@ -1,0 +1,15 @@
+* {
+	background-color: grey inherit;
+	font-family: 'Poppins' sans-serif;
+	color: saddlebrown;
+}
+
+.cont {
+	background-color: ghostwhite;
+	width: 70%;
+	border: 3px outset rebeccapurple;
+	border-radius: 15px;
+	display: flex;
+	flex-direction: row;
+	/*justify-content: space-between;*/
+}
